@@ -15,8 +15,8 @@ read -p "🛡️ 输入代理端口 (默认1080): " PORT
 PORT=${PORT:-1080}
 
 # 账号密码
-USER="xiaoliu"
-PASS="ENlilui123"
+USER="dsadas57"
+PASS="dsadarfegfdfgtyyt451s"
 
 # 获取网卡
 INTERFACE=$(ip -6 route | awk '/default/ {print $5; exit}')
