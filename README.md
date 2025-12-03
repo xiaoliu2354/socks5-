@@ -12,16 +12,8 @@
 
 使用 Dante（高性能 SOCKS5 服务端）
 
-🚀 一键安装
-bash <(curl -Ls https://raw.githubusercontent.com/xiaoliu2354/socks5-/main/install_socks5.sh)
 
-
-或者手动下载：
-
+```bash
 wget https://raw.githubusercontent.com/xiaoliu2354/socks5-/main/install_socks5.sh
 chmod +x install_socks5.sh
 ./install_socks5.sh
-
-🛠️ 使用说明
-
-运行脚本会提示选择端口：
